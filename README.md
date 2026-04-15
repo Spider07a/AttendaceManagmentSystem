@@ -1,20 +1,69 @@
-<<<<<<< HEAD
-# React + Vite
+# 📊 Attendance Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Description
+The Attendance Management System is a web-based application developed to simplify and automate the process of managing student attendance in colleges. It allows administrators, faculty, and students to efficiently track attendance records.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎯 Features
+- 👨‍🎓 Student Login & Dashboard  
+- 👩‍🏫 Faculty Login & Attendance Marking  
+- 🏫 Admin Panel (Manage Students & Faculty)  
+- 📅 Subject-wise Attendance  
+- 📈 Attendance Reports  
+- 🔐 Secure Authentication System  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
+- Frontend: React.js  
+- Backend: Node.js, Express.js  
+- Database: MongoDB  
+- Tools: VS Code, MongoDB Compass  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# AttendaceManagmentSystem
->>>>>>> 6662f191b6696f28cc0eb0badaeb34d3bf775ddd
+## 🏗️ Project Structure
+attendance-management-system/  
+│── backend/  
+│── frontend/  
+│── database/  
+│── README.md  
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the repository
+git clone https://github.com/Spider07a/AttendaceManagmentSystem.git  
+
+### 2. Go to project folder
+cd AttendaceManagmentSystem  
+
+### 3. Install dependencies
+npm install  
+
+### 4. Run backend
+cd backend  
+npm start  
+
+### 5. Run frontend
+cd frontend  
+npm start  
+
+---
+
+## 🚀 Future Improvements
+- Face recognition attendance  
+- Mobile app integration  
+- Cloud deployment  
+
+---
+
+## ⚠️ Note
+This project is developed for academic purposes. Deployment may not be fully functional.
+
+---
+
+## 👨‍💻 Author
+Anurag Daksh
